@@ -1,6 +1,9 @@
 # PhpStorm-Theme-package
 PhpStorm 护眼主题
 
+##### 示例
+![image](https://raw.githubusercontent.com/Talkyunyun/PhpStorm-Theme-package/master/examples.png)
+
 ##### 安装
 1. 把仓库中的Alim.icls文件下载到本地，复制该文件到您的PhpStorm用户配置文件夹下  
 window平台：C:\Users\Administrator\.PhpStorm2016.2\config\colors
