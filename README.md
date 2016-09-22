@@ -1,2 +1,11 @@
-# PhpStorm-s-Theme-package
-PhpStorm's Theme package
+# PhpStorm-Theme-package
+PhpStorm 护眼主题
+
+##### 安装
+1. 把仓库中的Alim.icls文件下载到本地，复制该文件到您的PhpStorm用户配置文件夹下
+window平台：C:\Users\Administrator\.PhpStorm2016.2\config\colors
+2. 重启PhpStorm进行主题设置
+```bash
+Settings -> Editor -> Colors & Fonts -> Scheme
+# 选择刚刚复制的文件名称：Alim
+```
